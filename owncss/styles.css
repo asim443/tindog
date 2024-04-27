@@ -1,0 +1,187 @@
+body{
+    font-family: calibri,sans-serif;
+}
+#title{
+    position:relative;
+    z-index: 0;
+    height:700px;
+    /* margin-top: 50px; */
+    background-color: #ff4c68;
+    /* padding:5%; */
+    color:#fff;
+}
+.custom{
+    font-weight: bold;
+    /* margin-bottom: 100px; */
+    background-color: #ff4c68;
+
+}
+/*.container-fluid{
+    padding:3% 15%;
+}*/
+.first-testimonial{
+    text-align: center;
+    padding:20px auto 20px 20px;
+    width:100%;
+    font-family:calibri,sans-serif;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+.r-1{
+    margin:7%;
+}
+.testimonial-image2{
+    width:10%;
+    border-radius: 100%;;
+}
+
+#topicsentence{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+/* Navigation Bar */
+/* .navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+} */
+/* .nav-item{
+    font-size: 1rem;
+    padding:0 18px;
+    font-weight: bold;
+} */
+/* Download Buttons */
+.Download-button{
+    margin:5% 3% 5% 0;
+}
+/* title image */
+.title-image{
+    position:absolute;
+    width:60%;
+    z-index: 1;
+}
+.second{
+    padding:7% 15%;
+    background-color:#fff;
+     position:relative;
+     /* z-index: 10; */
+} 
+h3{
+    font-weight: bold;
+}
+/* second class */
+p{
+    color:grey;
+}
+ .feature-box{
+    text-align: center;
+} 
+.icon{
+    color:#ef8172;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+}
+#testimonial-image{
+    width:10%;
+    border-radius: 100%;
+}
+/* press section */
+.press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+.carousal-item{
+    padding:7% 15%;
+}
+.press-logo{
+    width:15%;
+    margin:20px;
+} 
+
+/* card */
+.card{
+  
+    text-align: center;
+}
+.pricing{
+    text-align: center;
+}
+.col-change{
+    padding:3% 2% ;
+    width:60%;
+}
+.pricing-h2{
+    padding-top: 5%;
+    font-weight: bold;
+}
+.second{
+    color:#fff;
+}
+/* media query */
+/* @media (max-width:764px) {
+    .r-1{
+        text-align: center;
+    }
+    .title-image{
+        position:relative;
+    }
+    .second{
+        position:absolute;
+    }
+}
+@media (max-width:360px) {
+    .r-1{
+        text-align: center;
+    }
+    .title-image{
+        position:relative;
+        z-index:1; 
+    }
+    /*.second{
+        position:absolute;
+    }
+} */
+@media (max-width:990px){
+    .r-1{
+        text-align: center;
+    }
+    .title-image{
+        position:static;
+        text-align: center;
+    }
+}
+@media (max-width:574px)
+{
+    .col-change{
+        /* position:inline; */
+        text-align: center;
+    }
+}
+/* download-2 specification */
+.download-2{
+    background-color:#ff4c68 ;
+    text-align: center;
+    padding:70px;
+}
+.download-2-h3{
+    font-weight: bolder;
+}
+.download-2-bt{
+    margin-top: 2%;
+}
+/* footer styling */
+#footer{
+    margin-top: 7%;
+    text-align: center;
+}
+.footer-icon{
+    font-size: 1rem;
+    padding-right: 20px;
+}
